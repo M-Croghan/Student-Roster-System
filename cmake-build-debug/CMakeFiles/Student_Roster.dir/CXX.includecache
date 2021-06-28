@@ -1,0 +1,72 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/newac/source/repos/Student Roster/Student Roster/degree.h
+iostream
+-
+string
+-
+
+C:/Users/newac/source/repos/Student Roster/Student Roster/main.cpp
+iostream
+-
+string
+-
+roster.h
+C:/Users/newac/source/repos/Student Roster/Student Roster/roster.h
+student.h
+C:/Users/newac/source/repos/Student Roster/Student Roster/student.h
+degree.h
+C:/Users/newac/source/repos/Student Roster/Student Roster/degree.h
+
+C:/Users/newac/source/repos/Student Roster/Student Roster/roster.cpp
+iostream
+-
+string
+-
+roster.h
+C:/Users/newac/source/repos/Student Roster/Student Roster/roster.h
+degree.h
+C:/Users/newac/source/repos/Student Roster/Student Roster/degree.h
+student.h
+C:/Users/newac/source/repos/Student Roster/Student Roster/student.h
+
+C:/Users/newac/source/repos/Student Roster/Student Roster/roster.h
+iostream
+-
+string
+-
+degree.h
+C:/Users/newac/source/repos/Student Roster/Student Roster/degree.h
+student.h
+C:/Users/newac/source/repos/Student Roster/Student Roster/student.h
+
+C:/Users/newac/source/repos/Student Roster/Student Roster/student.cpp
+iostream
+-
+string
+-
+iomanip
+-
+roster.h
+C:/Users/newac/source/repos/Student Roster/Student Roster/roster.h
+student.h
+C:/Users/newac/source/repos/Student Roster/Student Roster/student.h
+degree.h
+C:/Users/newac/source/repos/Student Roster/Student Roster/degree.h
+
+C:/Users/newac/source/repos/Student Roster/Student Roster/student.h
+iostream
+-
+string
+-
+degree.h
+C:/Users/newac/source/repos/Student Roster/Student Roster/degree.h
+roster.h
+C:/Users/newac/source/repos/Student Roster/Student Roster/roster.h
+

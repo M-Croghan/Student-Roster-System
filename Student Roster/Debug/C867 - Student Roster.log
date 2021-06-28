@@ -1,0 +1,66 @@
+﻿  main.cpp
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(16,9): error C3646: 'GetStudentId': unknown override specifier
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(16,21): error C2059: syntax error: '('
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(16,23): error C2238: unexpected token(s) preceding ';'
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(17,9): error C3646: 'GetFirstName': unknown override specifier
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(17,21): error C2059: syntax error: '('
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(17,23): error C2238: unexpected token(s) preceding ';'
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(18,9): error C3646: 'GetLastName': unknown override specifier
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(18,20): error C2059: syntax error: '('
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(18,22): error C2238: unexpected token(s) preceding ';'
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(19,9): error C3646: 'GetEmail': unknown override specifier
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(19,17): error C2059: syntax error: '('
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(19,19): error C2238: unexpected token(s) preceding ';'
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(25,20): error C2061: syntax error: identifier 'string'
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(26,20): error C2061: syntax error: identifier 'string'
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(27,19): error C2061: syntax error: identifier 'string'
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(28,16): error C2061: syntax error: identifier 'string'
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(37,9): error C3646: 'studentId': unknown override specifier
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(37,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(38,9): error C3646: 'firstName': unknown override specifier
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(38,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(39,9): error C3646: 'lastName': unknown override specifier
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(39,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(40,9): error C3646: 'email': unknown override specifier
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(40,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  student.cpp
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(16,9): error C3646: 'GetStudentId': unknown override specifier
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(16,21): error C2059: syntax error: '('
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(16,23): error C2238: unexpected token(s) preceding ';'
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(17,9): error C3646: 'GetFirstName': unknown override specifier
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(17,21): error C2059: syntax error: '('
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(17,23): error C2238: unexpected token(s) preceding ';'
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(18,9): error C3646: 'GetLastName': unknown override specifier
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(18,20): error C2059: syntax error: '('
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(18,22): error C2238: unexpected token(s) preceding ';'
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(19,9): error C3646: 'GetEmail': unknown override specifier
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(19,17): error C2059: syntax error: '('
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(19,19): error C2238: unexpected token(s) preceding ';'
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(25,20): error C2061: syntax error: identifier 'string'
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(26,20): error C2061: syntax error: identifier 'string'
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(27,19): error C2061: syntax error: identifier 'string'
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(28,16): error C2061: syntax error: identifier 'string'
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(37,9): error C3646: 'studentId': unknown override specifier
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(37,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(38,9): error C3646: 'firstName': unknown override specifier
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(38,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(39,9): error C3646: 'lastName': unknown override specifier
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(39,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(40,9): error C3646: 'email': unknown override specifier
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(40,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.cpp(10,136): error C2511: 'Student::Student(std::string,std::string,std::string,std::string,int,int,DegreeProgram)': overloaded member function not found in 'Student'
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(6): message : see declaration of 'Student'
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.cpp(18,17): error C2039: 'GetStudentId': is not a member of 'Student'
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(6): message : see declaration of 'Student'
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.cpp(19,9): error C2065: 'studentId': undeclared identifier
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.cpp(22,17): error C2039: 'GetFirstName': is not a member of 'Student'
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(6): message : see declaration of 'Student'
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.cpp(23,9): error C2065: 'firstName': undeclared identifier
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.cpp(26,17): error C2039: 'GetLastName': is not a member of 'Student'
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(6): message : see declaration of 'Student'
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.cpp(27,9): error C2065: 'lastName': undeclared identifier
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.cpp(30,17): error C2039: 'GetEmail': is not a member of 'Student'
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.h(6): message : see declaration of 'Student'
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.cpp(31,9): error C2065: 'email': undeclared identifier
+C:\Users\newac\source\repos\C867 - Student Roster\C867 - Student Roster\student.cpp(40,1): error C2143: syntax error: missing ';' before '}'
+  Generating Code...

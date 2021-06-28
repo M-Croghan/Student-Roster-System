@@ -7,7 +7,7 @@ using namespace std;
 
 
 int main() {
-    //Student Information
+    //---------------------------------------------------------------------------------
     
     string studentId;
     string firstName;
